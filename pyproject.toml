@@ -9,6 +9,7 @@ readme = "README.md"
 python = "^3.10"
 nltk = "^3.8.1"
 wordcloud = "^1.9.3"
+black = "^24.4.2"
 
 
 [build-system]
