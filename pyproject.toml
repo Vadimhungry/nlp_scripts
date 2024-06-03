@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "nlp-study"
+version = "0.1.0"
+description = ""
+authors = ["VadimK <yaralavadim@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+nltk = "^3.8.1"
+wordcloud = "^1.9.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
